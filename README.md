@@ -43,10 +43,7 @@ To see the blog in action, open the `index.html` file in a web browser. Scroll d
 
 Feel free to fork this repository and make any enhancements. Contributions and suggestions are welcome!
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
-Designed by [Your Name]
+Designed by Momen Hassan Bayoumy
